@@ -1,0 +1,248 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&display=swap
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/customizer/main.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\customizer\main.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/customizer/main.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\customizer\main.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\index.htm
+Content Type: text/html
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/bootstrap-custom.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\bootstrap-custom.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/colors/main-darkgreen.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\colors\main-darkgreen.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/custom.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\custom.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/ionicons.min.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/jquery.mb.YTPlayer.min.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\jquery.mb.YTPlayer.min.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/lity.min.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\lity.min.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/main.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\main.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/simplebar.min.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\simplebar.min.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/css/tiny-slider.css
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\css\tiny-slider.css
+Content Type: text/css
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/fonts/ionicons.eot?v=4.5.7
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\fonts\ionicons.eot
+Content Type: application/octet-stream
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/fonts/ionicons.svg?v=4.5.7
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/fonts/ionicons.ttf?v=4.5.7
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/fonts/ionicons.woff2?v=4.5.7
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/fonts/ionicons.woff?v=4.5.7
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/client-1.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\client-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/client-2.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\client-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/client-3.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\client-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/favicons/apple-touch-icon.png
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/favicons/favicon-16x16.png
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/favicons/favicon-32x32.png
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/home.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\home.jpg
+Content Type: image/png
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/info-img.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\info-img.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-1.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-2.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-3.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-4.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-5.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/item-6.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\item-6.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-1.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-2.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-3.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-4.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-5.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/post-6.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/img/video.jpg
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\img\video.jpg
+Content Type: image/jpeg
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/animatedModal.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\animatedModal.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/bootstrap.bundle.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/custom.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\custom.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/isotope.pkgd.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/jquery.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/lity.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\lity.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/main.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\main.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/simplebar.min.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://kaleidoscopic-pie-2341a3.netlify.app/template/js/tiny-slider.js
+File Name: C:\Users\ISABELLE GAI\Desktop\Site Isa Gai\kaleidoscopic-pie-2341a3.netlify.app\template\js\tiny-slider.js
+Content Type: application/javascript
+
