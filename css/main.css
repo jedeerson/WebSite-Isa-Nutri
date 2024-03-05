@@ -320,7 +320,7 @@ hr {
 .lity-close:before {
     -ms-flex-item-align: end;
     align-self: flex-end;
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     height: 3px;
     width: 100%
 }
