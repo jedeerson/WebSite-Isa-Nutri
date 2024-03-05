@@ -811,7 +811,7 @@ hr {
     .navbar .navbar-menu:before {
         -ms-flex-item-align: end;
         align-self: flex-end;
-        background-color: red !important;
+        background-color: rgb(255, 255, 255) !important;
         height: 3px;
         width: 100%
     }
